@@ -4,3 +4,6 @@ torchvision=0.4.0
 numpy=1.15.4
 tensorboardx=1.4
 matplotlib=3.0.1
+pip install torch torchvision numpy tensorboard matplotlib
+pip install tqdm
+pip install tensorboard
